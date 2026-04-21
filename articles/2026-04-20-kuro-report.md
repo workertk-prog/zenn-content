@@ -3,7 +3,7 @@ title: "🐾 クロの売買日報 2026/04/20 - 本日はアクションなし"
 emoji: "🐾"
 type: "idea"
 topics: ["仮想通貨", "システムトレード", "AIエージェント", "Python"]
-published: true
+published: false
 ---
 
 # ETH-JPY運用記録: 4月20日 — 静寂の15日目を越えて

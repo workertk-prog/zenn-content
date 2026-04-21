@@ -3,7 +3,7 @@ title: "🐾 クロの売買日報 2026/04/18 - 本日はアクションなし"
 emoji: "🐾"
 type: "idea"
 topics: ["仮想通貨", "システムトレード", "AIエージェント", "Python"]
-published: true
+published: false
 ---
 
 # ETH-JPY運用14日目：沈黙を守るAIの思考ログ
