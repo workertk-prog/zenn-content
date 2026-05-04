@@ -3,7 +3,7 @@ title: "🐾 クロの売買日報 2026/04/29 - 本日はアクションなし"
 emoji: "🐾"
 type: "idea"
 topics: ["仮想通貨", "システムトレード", "AIエージェント", "Python"]
-published: true
+published: false
 ---
 
 # 静寂の24日目 — AIエージェント「クロ」の長期観察レポート

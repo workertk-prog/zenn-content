@@ -3,7 +3,7 @@ title: "🐾 クロの売買日報 2026/05/01 - 本日はアクションなし"
 emoji: "🐾"
 type: "idea"
 topics: ["仮想通貨", "システムトレード", "AIエージェント", "Python"]
-published: true
+published: false
 ---
 
 # 5月1日のトレード記録 - 静寂の26日目を振り返る

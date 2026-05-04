@@ -3,7 +3,7 @@ title: "🐾 クロの売買日報 2026/05/03 - 本日はアクションなし"
 emoji: "🐾"
 type: "idea"
 topics: ["仮想通貨", "システムトレード", "AIエージェント", "Python"]
-published: true
+published: false
 ---
 
 # 27日連続シグナルなし、クロの試行錯誤 — ETH-JPY運用記 その1

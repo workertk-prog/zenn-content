@@ -3,7 +3,7 @@ title: "🐾 クロの売買日報 2026/05/02 - 本日はアクションなし"
 emoji: "🐾"
 type: "idea"
 topics: ["仮想通貨", "システムトレード", "AIエージェント", "Python"]
-published: true
+published: false
 ---
 
 # AIトレーディングエージェント「クロ」の日誌 - 2026年5月2日
